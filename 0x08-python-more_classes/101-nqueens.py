@@ -61,7 +61,7 @@ if __name__ == '__main__':
         solve = []
         for i in range(size):
             for j in range(size):
-                if(b[i][j] is 1):
+                if(b[i][j] == 1):
                     solve.append([i, j])
         print(solve)
         solve.clear()
