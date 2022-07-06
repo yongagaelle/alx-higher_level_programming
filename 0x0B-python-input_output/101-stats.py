@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+'''
+Script for log parsing
+'''
 
 import sys
 
