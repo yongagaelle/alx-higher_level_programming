@@ -1,9 +1,6 @@
 #!/usr/bin/python3
-'''
-Script for log parsing
-'''
-import sys
 
+import sys
 
 
 if __name__ == "__main__":
